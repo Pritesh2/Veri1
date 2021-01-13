@@ -1,0 +1,8 @@
+
+class BusPage():
+
+    def __init__(self,driver):
+
+        #id pt1:_FOr1:1:_FOSritemNode_SalesBusinessPlans:0:_FOTsr1:0:pt1:lstSrch:searchf:srchit::content
+        self.search_id='pt1:_FOr1:1:_FOSritemNode_SalesBusinessPlans:0:_FOTsr1:0:pt1:lstSrch:searchf:srchit::content'
+
